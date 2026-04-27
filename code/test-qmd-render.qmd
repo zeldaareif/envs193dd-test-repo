@@ -1,0 +1,13 @@
+---
+title: "test repo code"
+author: "Zelda Reif"
+format: pdf
+---
+
+# 1. Set Up
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
